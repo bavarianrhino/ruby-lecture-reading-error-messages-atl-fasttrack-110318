@@ -1,4 +1,3 @@
-def "hello world"
-end
+hello_world = "hello world"
 
 hello_world
